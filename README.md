@@ -6,6 +6,6 @@ Read readme for complete functionality. This solution has many advantages. Conat
 1. Download .zip file and paste to the folder server-data/resources
 
 # How to add map to the package:
-1. Download ymap map or mkae your map on CodeWalker.
+1. Download ymap map or make your map on CodeWalker.
 2. In th folder stream make new folder for example: remasteredmap
 3. Paste ymap files.
